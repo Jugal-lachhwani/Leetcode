@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Matrix
+|  |
+| ------- |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 <!---LeetCode Topics End-->

@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 ## Two Pointers
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->

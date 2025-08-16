@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1448-maximum-69-number](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1448-maximum-69-number) |
 ## Design
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0134-gas-station) |
+| [1448-maximum-69-number](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1448-maximum-69-number) |
 ## Matrix
 |  |
 | ------- |

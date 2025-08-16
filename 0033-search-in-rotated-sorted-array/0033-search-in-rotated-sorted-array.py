@@ -1,18 +1,22 @@
 class Solution(object):
     def search(self, nums, target):
-        min_val = min(nums)
-        s = nums.index(min_val)
-        r = len(nums) - 1
-        l = 0
-        while l <= r:
-            print('how')
-            mid = (l + r) // 2
-            m = nums[(mid + s)%len(nums)]
-            print(m)
-            if m == target:
-                return (mid + s)%len(nums)
-            elif m > target:
-                r = mid-1
+        left = 0
+        right = len(nums) - 1
+
+        while left <= right:
+            mid = (left + right) // 2
+
+            if nums[mid] == target:
+                return mid
+            elif nums[mid] >= nums[left]:
+                if nums[left] <= target <= nums[mid]:
+                    right = mid - 1
+                else:
+                    left = mid + 1
             else:
-                l = mid+1
+                if nums[mid] <= target <= nums[right]:
+                    left = mid + 1
+                else:
+                    right = mid - 1
+        
         return -1

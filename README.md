@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0498-diagonal-traverse](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->

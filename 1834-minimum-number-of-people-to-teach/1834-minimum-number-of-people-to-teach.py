@@ -2,9 +2,8 @@ class Solution:
     def minimumTeachings(self, totalLanguages, userLanguages, friendships):
         users_to_teach = set()
 
-        # Step 1: Identify users who can't communicate
         for user1, user2 in friendships:
-            user1 -= 1  # Convert to 0-based index
+            user1 -= 1 
             user2 -= 1
             can_communicate = False
 
@@ -17,7 +16,6 @@ class Solution:
                 users_to_teach.add(user1)
                 users_to_teach.add(user2)
 
-        # Step 2: Try teaching each language
         min_users_to_teach = len(userLanguages) + 1
 
         for language in range(1, totalLanguages + 1):

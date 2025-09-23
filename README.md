@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0940-fruit-into-baskets](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1006-vowel-spellchecker) |
+| [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2023-design-movie-rental-system) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0165-compare-version-numbers) |
 | [1006-vowel-spellchecker](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1006-vowel-spellchecker) |
+| [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0940-fruit-into-baskets](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Dynamic Programming
 |  |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 ## Two Pointers
 |  |
 | ------- |

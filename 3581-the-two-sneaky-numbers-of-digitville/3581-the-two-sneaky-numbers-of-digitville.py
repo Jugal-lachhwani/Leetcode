@@ -1,12 +1,11 @@
 class Solution:
-    def getSneakyNumbers(self, n: List[int]) -> List[int]:
-        c = 0
-        l = set()
-        r = []
-        for i in n:
-            if len(r) > 2:
-                return
-            if i in l:
-                r.append(i)
-            l.add(i)
-        return r
+    def getSneakyNumbers(self, nums: List[int]) -> List[int]:
+        n = len(nums)
+        seen = [False] * n
+        res = []
+        for num in nums:
+            if seen[num]:
+                res.append(num)
+            else:
+                seen[num] = True
+        return res

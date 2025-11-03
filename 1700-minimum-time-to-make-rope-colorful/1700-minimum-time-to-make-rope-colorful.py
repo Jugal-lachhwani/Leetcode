@@ -3,7 +3,6 @@ class Solution:
         r = 0
         i = 0
         while i < len(c):
-            b = c[i]
             j = i+1
             m = t[i]
             con = 0

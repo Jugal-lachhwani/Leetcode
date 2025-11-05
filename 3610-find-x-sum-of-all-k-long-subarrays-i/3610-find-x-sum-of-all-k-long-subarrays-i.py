@@ -11,29 +11,18 @@ class Solution:
                     d[n[r]] = 1
             l = list(d.items())
             sum = 0
-            # print(l)
             for i in range(x):
-                # print('i=',i)
-                # print('x=',x)
                 if i >= len(l):
                     break
                 m = i
-                # print('l[m]',l[m])
                 for j in range(i+1,len(l)):
-                    print('j',j)
                     c = j
-                    # print('l[c]',l[c])
-                    # print('l[m]',l[m])
                     if l[c][1] > l[m][1]:
                         m = c
                     elif l[c][1] == l[m][1]:
                         if l[c][0] > l[m][0]:
                             m = c
-                # print('l[m]',l[m])
                 sum += l[m][0] * l[m][1]
                 (l[i],l[m]) = (l[m],l[i])
             answer.append(sum)  
-        # d = sorted(d.items(),key = lambda x:(x[1],x[0]),reverse = True)
-        # print(l)
-        # print(d)
         return answer

@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1448-maximum-69-number](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1642-water-bottles) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1642-water-bottles) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |

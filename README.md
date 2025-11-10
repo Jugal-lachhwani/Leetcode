@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3748-sort-matrix-by-diagonals](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -265,11 +268,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0735-asteroid-collision) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Recursion
 |  |
 | ------- |

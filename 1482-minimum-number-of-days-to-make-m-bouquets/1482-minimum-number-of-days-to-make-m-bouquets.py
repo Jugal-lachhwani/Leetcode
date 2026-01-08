@@ -20,7 +20,7 @@ class Solution:
             mid = (l+r) // 2
             b = flowerbed(arr,mid,k,m)
             if b == True:
-                min_num = min(mid,min_num)
+                min_num = mid
                 r = mid - 1
             else:
                 l = mid + 1

@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0735-asteroid-collision) |
 | [0830-largest-triangle-area](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0860-design-circular-queue](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0860-design-circular-queue) |
+| [0875-koko-eating-bananas](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0909-snakes-and-ladders](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0875-koko-eating-bananas](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3827-implement-router](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3827-implement-router) |
 ## Trie

@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0036-valid-sudoku) |
+| [0141-linked-list-cycle](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0141-linked-list-cycle](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0189-rotate-array) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0860-design-circular-queue](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0860-design-circular-queue) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Combinatorics

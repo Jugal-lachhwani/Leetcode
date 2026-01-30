@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3680-generate-schedule](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3680-generate-schedule) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3827-implement-router) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3680-generate-schedule](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3680-generate-schedule) |
 | [3830-find-closest-person](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3830-find-closest-person) |
 ## Design
 |  |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3680-generate-schedule](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3680-generate-schedule) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Matrix
 |  |

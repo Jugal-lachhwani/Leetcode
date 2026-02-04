@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2023-design-movie-rental-system) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2023-design-movie-rental-system) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2429-design-a-food-rating-system](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0274-h-index) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2887-sort-vowels-in-a-string](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0342-power-of-four) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -376,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Queue

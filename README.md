@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0474-ones-and-zeroes](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0894-all-possible-full-binary-trees](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0342-power-of-four) |
+| [0894-all-possible-full-binary-trees](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Binary Search
 |  |
@@ -455,4 +457,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0148-sort-list) |
+## Tree
+|  |
+| ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
+## Memoization
+|  |
+| ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 <!---LeetCode Topics End-->

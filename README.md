@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0118-pascals-triangle) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0079-word-search) |
 | [0407-trapping-rain-water-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0079-word-search) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Breadth-First Search
 |  |
@@ -449,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0079-word-search) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [3863-power-grid-maintenance](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Union Find

@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0189-rotate-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0036-valid-sudoku) |
+| [0139-word-break](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0079-word-search) |
+| [0139-word-break](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0139-word-break) |
 | [0474-ones-and-zeroes](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0894-all-possible-full-binary-trees](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0139-word-break) |
 ## Simulation
 |  |
 | ------- |
@@ -477,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0139-word-break) |
 | [0894-all-possible-full-binary-trees](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 ## Binary Tree
 |  |

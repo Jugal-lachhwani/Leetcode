@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Two Pointers
@@ -510,4 +513,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0894-all-possible-full-binary-trees](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->

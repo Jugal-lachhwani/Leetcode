@@ -487,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0079-word-search) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [3863-power-grid-maintenance](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0894-all-possible-full-binary-trees](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0894-all-possible-full-binary-trees](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Rolling Hash
 |  |
 | ------- |

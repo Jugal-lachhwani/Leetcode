@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2104-sum-of-subarray-ranges](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0735-asteroid-collision](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0735-asteroid-collision) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [2104-sum-of-subarray-ranges](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [2104-sum-of-subarray-ranges](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Recursion
 |  |

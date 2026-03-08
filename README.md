@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0860-design-circular-queue](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0860-design-circular-queue) |
 | [0875-koko-eating-bananas](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0909-snakes-and-ladders](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0460-lfu-cache) |
+| [0904-fruit-into-baskets](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |

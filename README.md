@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2023-design-movie-rental-system) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |

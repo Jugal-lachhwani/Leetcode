@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0735-asteroid-collision](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0735-asteroid-collision) |
 | [0830-largest-triangle-area](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0830-largest-triangle-area) |
+| [0846-hand-of-straights](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0846-hand-of-straights) |
 | [0860-design-circular-queue](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0860-design-circular-queue) |
 | [0875-koko-eating-bananas](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0460-lfu-cache) |
+| [0846-hand-of-straights](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1006-vowel-spellchecker) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0274-h-index) |
+| [0846-hand-of-straights](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0846-hand-of-straights) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0846-hand-of-straights](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0846-hand-of-straights) |
 | [1448-maximum-69-number](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1448-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |

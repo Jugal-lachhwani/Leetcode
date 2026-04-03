@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0460-lfu-cache) |
 | [0846-hand-of-straights](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0846-hand-of-straights) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1006-vowel-spellchecker) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0909-snakes-and-ladders](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [3863-power-grid-maintenance](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Depth-First Search
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0079-word-search) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [3863-power-grid-maintenance](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Union Find
@@ -559,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Memoization
@@ -569,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Rolling Hash

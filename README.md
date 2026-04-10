@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0274-h-index) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -560,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0130-surrounded-regions](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -643,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0200-number-of-islands) |
 ## Graph Theory
 |  |
 | ------- |

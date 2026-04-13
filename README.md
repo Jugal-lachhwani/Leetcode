@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1917-maximum-average-pass-ratio) |

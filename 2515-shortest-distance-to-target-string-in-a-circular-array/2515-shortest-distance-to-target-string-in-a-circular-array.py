@@ -1,6 +1,5 @@
 class Solution:
     def closestTarget(self, words: List[str], target: str, startIndex: int) -> int:
-        doubleWords = words + words
         i = 0
         chance = 0
         sl = startIndex

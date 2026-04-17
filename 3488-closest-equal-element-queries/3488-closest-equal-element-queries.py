@@ -16,15 +16,14 @@ class Solution:
             arr = d[nums[target]]
             l = 0
             r = len(arr) - 1
-            # while l < r:
-            #     mid = l + r // 2
-            #     if arr[mid] == target:
-            #         break
-            #     elif arr[mid] < target:
-            #         l = mid + 1
-            #     else:
-            #         r = mid - 1
-            mid = bisect_left(arr, target)
+            while l <= r:
+                mid = (l + r) // 2
+                if arr[mid] == target:
+                    break
+                elif arr[mid] < target:
+                    l = mid + 1
+                else:
+                    r = mid - 1
             left = arr[mid - 1] if mid > 0 else arr[-1]
             right = arr[mid + 1] if mid < len(arr) - 1 else arr[0]
 

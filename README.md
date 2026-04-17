@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0735-asteroid-collision](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0735-asteroid-collision) |
+| [0778-swim-in-rising-water](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0827-making-a-large-island) |
 | [0830-largest-triangle-area](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0846-hand-of-straights](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0846-hand-of-straights) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0778-swim-in-rising-water](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0827-making-a-large-island) |
 | [0909-snakes-and-ladders](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0778-swim-in-rising-water](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0355-design-twitter) |
 | [0407-trapping-rain-water-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0743-network-delay-time](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -578,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0827-making-a-large-island](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -602,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0827-making-a-large-island](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -681,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0200-number-of-islands) |
+| [0778-swim-in-rising-water](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0827-making-a-large-island) |
 | [1631-path-with-minimum-effort](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory

@@ -1,9 +1,19 @@
 class Solution:
-    def uniquePaths(self, m: int, n: int) -> int:
-        dp = [[1]*n for _ in range(m)]
-        
-        for i in range(1, m):
-            for j in range(1, n):
-                dp[i][j] = dp[i-1][j] + dp[i][j-1]
-        
-        return dp[m-1][n-1]
+    def uniquePaths(self, n: int, m: int) -> int:
+        prev = [0] * m
+        for i in range(n):
+            temp = [0] * m
+            for j in range(m):
+                if i == 0 and j == 0:
+                    temp[i] = 1
+                    continue
+
+                num1 = 0
+                if i-1 >= 0:
+                    num1 = prev[j] 
+                num2 = 0
+                if j-1 >= 0:
+                    num2 = temp[j-1]
+                temp[j] = num1 + num2
+            prev = temp
+        return prev[-1]

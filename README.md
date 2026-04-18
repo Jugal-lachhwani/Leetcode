@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0274-h-index) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0213-house-robber-ii) |
 | [0474-ones-and-zeroes](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0894-all-possible-full-binary-trees](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0894-all-possible-full-binary-trees) |

@@ -3,7 +3,6 @@ class Solution:
         n = len(grid)
         m = len(grid[0])
         next_dp = [[0 for i in range(m)] for j in range(m)]
-        cur_dp = [[0 for i in range(m)] for j in range(m)]
         for j1 in range(m):
             for j2 in range(m):
                 if j1 == j2:
@@ -13,6 +12,7 @@ class Solution:
         print(next_dp)
 
         for i in range(n-2,-1,-1):
+            cur_dp = [[0 for i in range(m)] for j in range(m)]
             for j1 in range(m):
                 for j2 in range(m):
                     if j1 == j2:
@@ -28,6 +28,6 @@ class Solution:
                             
                     cur_dp[j1][j2] = max_sum
                 
-            next_dp = [row[:] for row in cur_dp]
+            next_dp = cur_dp
         
         return next_dp[0][m-1]

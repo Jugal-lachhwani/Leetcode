@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0189-rotate-array) |
 | [0556-next-greater-element-iii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Math
 |  |
 | ------- |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3488-closest-equal-element-queries](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3827-implement-router](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3827-implement-router) |

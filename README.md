@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2023-design-movie-rental-system) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2104-sum-of-subarray-ranges](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3680-generate-schedule](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3680-generate-schedule) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |

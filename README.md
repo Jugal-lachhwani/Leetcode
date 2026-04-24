@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2833-furthest-point-from-origin](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2887-sort-vowels-in-a-string](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3462-vowels-game-in-a-string](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3462-vowels-game-in-a-string) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0169-majority-element) |
+| [2833-furthest-point-from-origin](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy

@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1463-cherry-pickup-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0827-making-a-large-island) |
 | [0909-snakes-and-ladders](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1463-cherry-pickup-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-path-with-minimum-effort](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0909-snakes-and-ladders](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3863-power-grid-maintenance](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Depth-First Search
@@ -652,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1192-critical-connections-in-a-network](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [3863-power-grid-maintenance](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3863-power-grid-maintenance) |
@@ -730,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0200-number-of-islands) |
 | [0778-swim-in-rising-water](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0827-making-a-large-island) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Graph Theory

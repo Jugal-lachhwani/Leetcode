@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2023-design-movie-rental-system) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2104-sum-of-subarray-ranges](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1642-water-bottles) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0846-hand-of-straights) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2887-sort-vowels-in-a-string](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1895-largest-magic-square) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |

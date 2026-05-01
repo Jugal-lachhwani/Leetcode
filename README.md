@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0396-rotate-function](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0474-ones-and-zeroes) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0322-coin-change) |
+| [0396-rotate-function](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0894-all-possible-full-binary-trees](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0396-rotate-function](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0396-rotate-function) |
 | [0445-add-two-numbers-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0556-next-greater-element-iii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |

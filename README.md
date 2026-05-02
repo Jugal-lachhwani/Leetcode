@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0788-rotated-digits](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0788-rotated-digits) |
 | [0894-all-possible-full-binary-trees](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1048-longest-string-chain](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1048-longest-string-chain) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0556-next-greater-element-iii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1448-maximum-69-number](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1448-maximum-69-number) |

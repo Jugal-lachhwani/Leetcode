@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0474-ones-and-zeroes](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0556-next-greater-element-iii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0556-next-greater-element-iii) |
+| [0796-rotate-string](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0796-rotate-string) |
 | [1006-vowel-spellchecker](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1048-longest-string-chain](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1048-longest-string-chain) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
@@ -783,4 +784,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1192-critical-connections-in-a-network) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->

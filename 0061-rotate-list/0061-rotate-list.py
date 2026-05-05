@@ -21,13 +21,10 @@ class Solution:
             return head
         r = l - k - 1
         temp = head
-        while temp and r > 0:
+        while r > 0:
             temp = temp.next
             r -= 1
-        print(temp.val,last.val)
-        new_head = temp.next
-        temp.next = None
         last.next = head
-        return new_head
-
-
+        head = temp.next
+        temp.next = None
+        return head

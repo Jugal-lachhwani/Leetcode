@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0155-min-stack) |
@@ -500,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2104-sum-of-subarray-ranges](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2104-sum-of-subarray-ranges) |

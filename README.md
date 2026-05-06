@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1048-longest-string-chain](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1048-longest-string-chain) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1861-rotating-the-box) |
 ## Math
 |  |
 | ------- |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-path-with-minimum-effort](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1861-rotating-the-box](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1895-largest-magic-square) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |

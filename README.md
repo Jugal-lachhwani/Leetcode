@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3637-trionic-array-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3660-jump-game-ix](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3660-jump-game-ix) |
 | [3680-generate-schedule](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3680-generate-schedule) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3660-jump-game-ix](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Bit Manipulation
 |  |

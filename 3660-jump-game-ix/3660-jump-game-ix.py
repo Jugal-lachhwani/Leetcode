@@ -12,7 +12,7 @@ class Solution:
         for i in range(n-1,-1,-1):
             min_arr[i] = min(arr[i],min_num)
             min_num = min_arr[i]
-        print(max_arr,min_arr)
+        # print(max_arr,min_arr)
 
         ans = [0] * n
 

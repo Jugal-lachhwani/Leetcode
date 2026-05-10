@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Jugal-lachhwani/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3660-jump-game-ix](https://github.com/Jugal-lachhwani/Leetcode/tree/master/3660-jump-game-ix) |

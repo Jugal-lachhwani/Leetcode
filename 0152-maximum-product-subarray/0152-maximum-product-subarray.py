@@ -1,0 +1,40 @@
+class Solution:
+    def maxProduct(self, arr: List[int]) -> int:
+        n = len(arr)
+        if n == 1:
+            return arr[0]
+        max_num = float('-inf')
+        dp = [[-1] * 2 for i in range(n+1)]
+        if arr[0] < 0:
+            dp[0][1] = 1
+            dp[0][0] = arr[0]
+            first_neg = True     
+        elif arr[0] > 0:
+            dp[0][1] = arr[0]
+            dp[0][0] = arr[0]
+            first_neg = False
+        else:
+            dp[0][1] = 1
+            dp[0][0] = 1
+            first_neg = False
+        # dp[0][0] = arr[0]
+        # dp[0][1] = 1
+        max_num = arr[0]  
+        for i in range(1,n):
+            if arr[i] == 0:
+                dp[i][0] = 1
+                dp[i][0] = 1
+                max_num = max(0,max_num)
+                first_neg = False
+                continue
+            if arr[i] < 0 and first_neg == False:
+                dp[i][0] = dp[i-1][0] * arr[i]
+                dp[i][1] = 1
+                max_num = max(dp[i][0], max_num)
+                first_neg = True
+                continue
+            else:
+                dp[i][0] = dp[i-1][0] * arr[i]
+                dp[i][1] = dp[i-1][1] * arr[i]
+            max_num = max(dp[i][0],dp[i][1],max_num,arr[i])
+        return max_num

@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0198-house-robber) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0179-largest-number](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0179-largest-number) |
 | [0282-expression-add-operators](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0316-remove-duplicate-letters) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0274-h-index) |
 | [0846-hand-of-straights](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0846-hand-of-straights) |
 | [1048-longest-string-chain](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1048-longest-string-chain) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0135-candy) |
+| [0179-largest-number](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0846-hand-of-straights](https://github.com/Jugal-lachhwani/Leetcode/tree/master/0846-hand-of-straights) |
 | [1448-maximum-69-number](https://github.com/Jugal-lachhwani/Leetcode/tree/master/1448-maximum-69-number) |
